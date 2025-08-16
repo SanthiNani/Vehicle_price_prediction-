@@ -41,7 +41,7 @@ It consists of:
 
 1. **Clone the repository:**
 ```
-git clone https://github.com/Syam-Doppasani/Vehicle_price_prediction.git
+git clone https://github.com/SanthiNani/Vehicle_price_prediction.git
 cd vehicle-price-prediction
 ```
 
@@ -85,7 +85,8 @@ Install all with:
 [requirements.txt](https://github.com/user-attachments/files/20465618/requirements.txt)
 
 # 👨‍💻 Author
-Syam Doppasani
+Santhi Raju Peddapati
 
-For freelance work or collaborations: syamdoppasani@gmail.com
+For freelance work or collaborations: santhinani364@gmail.com
+
 
